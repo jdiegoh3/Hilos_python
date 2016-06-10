@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-#Sacado del tutorial: http://www.genbetadev.com/python/multiprocesamiento-en-python-threads-a-fondo-introduccion
 import threading
 
 #Funcion que desempeña el thread
